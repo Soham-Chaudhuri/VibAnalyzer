@@ -1,1 +1,1 @@
-# VibAnalyzer
+# Introduction-to-Machine-Learning-Assignment
